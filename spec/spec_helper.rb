@@ -2,6 +2,7 @@
 
 require 'rspec'
 require 'simplecov'
+require 'pry-byebug'
 
 require 'jekyll-diagrams'
 
